@@ -7,7 +7,7 @@
 
     Append a list of datasets when one or more datasets may be missing
 
-     Two Solutions
+     Three Solutions
 
           0 nodsnferr  (best)
             Bartosz Jablonski
